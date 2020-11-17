@@ -1,6 +1,6 @@
 ### Hi there, my name is Munara 👋
 
-### I am a daughter, sister, loved girlfriend, traveller and 🕵️‍♀️ IT researcher (self-taght sounds so cliche_;p_) 
+### I am a daughter, sister, loved girlfriend, traveller and 🕵️‍♀️ IT researcher (self-taught sounds so cliche_;p_) 
 
 - 🌱 Currently practicing (learning) on a daily basis on Java Script
 - 🔭 2021 Goals: Settle in Houston, Texas as an IT researcher (engineer/developer who cares?!)
