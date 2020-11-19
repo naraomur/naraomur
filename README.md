@@ -3,7 +3,7 @@
 ### I am a daughter, sister, loved girlfriend, traveller and 🕵️‍♀️ IT researcher (self-taught sounds so cliche_;p_) 
 
 - 🌱 Currently practicing (learning) on a daily basis on Java Script
-- 🔭 2021 Goals: Settle in Houston, Texas as an IT researcher (engineer/developer who cares?!)
+- 🔭 2021 Goals: Settle in IT projects as an IT researcher (engineer/developer who cares?!)
 - 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use and tons of money to me)
 - 👩‍🎤 Fun facts: I love to draw and sing.
 
