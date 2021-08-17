@@ -1,10 +1,11 @@
 ### Hi there, my name is Munara 👋
 
-### I am a daughter, sister, loved girlfriend, traveller and 🕵️‍♀️ IT researcher (self-taught sounds so cliche_;p_) 
+### I am a daughter, sister, traveller and 🕵️‍♀️ IT researcher (self-taught sounds so cliche_;p_) 
 
-- 🌱 Currently practicing (learning) on a daily basis on Java Script
+- 🌱 Currently practicing (learning) on a daily basis on Java 
+- Have worked on JS(JQuery) projects via Bootstrap
 - 🔭 2021 Goals: Settle in IT projects as an IT researcher (engineer/developer who cares?!)
-- 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use and tons of money to me)
+- 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use)
 - 👩‍🎤 Fun facts: I love to draw and sing.
 
 ### Connect with me:
