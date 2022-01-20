@@ -7,6 +7,7 @@
 - 🔭 2021 Goals: Settle in IT projects as an IT researcher (engineer/developer who cares?!)
 - 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use)
 - 👩‍🎤 Fun facts: I love to draw and sing.
+- 👊 Have travelled 32 countries around the globe
 
 ### Connect with me:
 
