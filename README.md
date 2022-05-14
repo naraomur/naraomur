@@ -13,7 +13,6 @@
 
 [<img align="left" alt="Munara | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/github.svg">](https://github.com/naraomur)
 [<img align="left" alt="Munara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/naraomur/)
-[<img align="left" alt="Munara | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/whatsapp.svg">](https://wa.me/4747732645)
 
 <br/>
 
