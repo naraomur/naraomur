@@ -9,7 +9,9 @@
 - 👩‍🎤 Fun facts: I love to draw and sing.
 - :earth_asia: Have travelled 32 countries around the globe
 
-[one page not even a landing page, dear!](https://naraomur.github.io/Catalog/)
+[Personal Blog Posts and profile](https://naraomur.github.io/)
+
+[Dynamic one page built on bootstrap/gulp/sass/jquery](https://naraomur.github.io/Catalog/)
 
 ### Connect with me:
 
