@@ -1,6 +1,6 @@
 ### Hi there, my name is Munara 👋
 
-### I am a daughter, sister, traveller and 🕵️‍♀️ IT researcher 
+### I am a daughter, sister, traveler and 🕵️‍♀️ IT researcher 
 
 - 🌱 Currently practicing Java, as I find structural solution and implemention joyful than the frontend I used to do
 - :computer: Have worked on HTML5/CSS3/SASS/JS(JQuery) projects via Bootstrap/NPM
