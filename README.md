@@ -11,7 +11,7 @@
  
 - 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use)
 - 👩‍🎤 Fun facts: I love to draw and sing.
-- :earth_asia: Have travelled 32 countries around the globe
+- :earth_asia: Have travelled 34 countries around the globe
 
 [Personal Blog Posts and profile](https://naraomur.github.io/)
 
