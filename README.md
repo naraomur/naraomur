@@ -2,9 +2,11 @@
 
 ### I am a daughter, sister, traveler and 🕵️‍♀️ IT researcher 
 
-- 🌱 Currently practicing Java, as I find structural solution and implemention joyful than the frontend I used to do
-- :computer: Have worked on HTML5/CSS3/SASS/JS(JQuery) projects via Bootstrap/NPM
-- 🔭 2023 Goals: Settle in IT projects as an IT researcher (engineer/developer who cares?!)
+- 🌱 Currently practicing Java, C# as I find structural solution and implemention joyful than the frontend I used to do
+- :computer: Work on HTML5/CSS3/SASS/JS(Node, TS, React) projects once in a while as per client request
+- 🔭 2023 Goals: Settle in IT projects as an IT researcher (engineer/developer who cares?!) - [x]
+              : Fill up my portfolio with some awsome stuff
+                    1. [ ] Alisha e-commerce store 
 - 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use)
 - 👩‍🎤 Fun facts: I love to draw and sing.
 - :earth_asia: Have travelled 32 countries around the globe
