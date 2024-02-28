@@ -2,7 +2,7 @@
 
 ### I am a daughter, sister, traveler and 🕵️‍♀️ IT researcher 
 
-- 🌱 Currently practicing Java, C# as I find structural solution and implemention joyful than the frontend I used to do
+- 🌱 Currently practicing >NET SaaS building
 - :computer: Work on HTML5/CSS3/SASS/JS(Node, TS, React) projects once in a while as per client request
 - 🔭 2023 Goals: 1. Settle in IT projects as an IT researcher (engineer/developer who cares?!) ✔️
 2. Fill up my portfolio with some awsome stuff 🔲
