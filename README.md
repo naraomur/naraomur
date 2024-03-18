@@ -4,10 +4,10 @@
 
 - 🌱 Currently practicing >NET SaaS building
 - :computer: Work on HTML5/CSS3/SASS/JS(Node, TS, React) projects once in a while as per client request
-- 🔭 2023 Goals: 1. Settle in IT projects as an IT researcher (engineer/developer who cares?!) ✔️
+- 🔭 2024 Goals: 1. Settle in international IT projects as an IT researcher (engineer/developer who cares?!) ✔️
 2. Fill up my portfolio with some awsome stuff 🔲
-- [ ] Alisha e-commerce store 
 - [ ] Architecture and design patterns in practice
+- [ ] SaaS web app
  
 - 👊 Why: In order to be able to build my own projects (thus an empire which brings to people a good use)
 - 👩‍🎤 Fun facts: I love to draw and sing.
